@@ -121,7 +121,7 @@ elif section == "Graphs and Figures":
     st.pyplot(fig)
 
     st.markdown("### 2. External Resources")
-    st.markdown("![Landfill Structure](https://www.geoengineer.org/storage/wcp_assignment/177/editor_photos/4273/Fig1.jpg)")
+    st.markdown("![Landfill Structure](Fig1.jpg)")
     st.markdown("![Liner System](3-s2.0-B9780750679633500114-f09-01-9780750679633.jpg)")
 
 st.sidebar.markdown("---")
